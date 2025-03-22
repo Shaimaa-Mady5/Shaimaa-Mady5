@@ -36,7 +36,7 @@
   <img width="24" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="36" alt="ionic logo"  />
 </div>
 
 ###
