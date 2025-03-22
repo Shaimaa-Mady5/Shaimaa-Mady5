@@ -11,6 +11,7 @@
 </div>
 
 ###
+  <h2 align="center">I code with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
@@ -34,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" alt="angularjs logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
 ###
